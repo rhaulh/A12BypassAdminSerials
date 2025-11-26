@@ -1,35 +1,67 @@
-Utility for Register Serials for A12Bypass Tool
+# 🛠️ Utility for Register Serials – A12Bypass Tool
 
-🚀 Main Features
-Add or Remove Serials only
+Herramienta para **agregar o eliminar seriales** para el sistema A12Bypass Admin.
 
-📋 Requirements
-  Requirement	Details
-  Operating System	Windows 10/11
-  Python	3.11 (recommended)
-  Python Dependencies	PyQt5, requests
-  WiFi enabled on the device
-  
-🔧 Installation
-  git clone https://github.com/rhaulh/A12BypassAdminSerials.git
-  cd A12BypassAdminSerials
-  pip install -r requirements.txt
-  
-🔒 Legal Disclaimer
+---
 
-  This project is strictly for:
-  
-  Educational purposes
-  Security research
-  Legitimate recovery of owned devices
-  Authorized testing
-  Unauthorized use violates the laws of most countries (including the CFAA in the U.S. and equivalent EU laws). The author is not responsible for misuse of this tool.
+## 🚀 Características Principales
 
-📞 Support & Contact
+* Agregar seriales
+* Eliminar seriales
+* Interfaz simple y ligera
+* Compatible con Windows 10/11
 
-  Facebook: fb.com/rhaulh
-  Telegram Channel (updates): coming soon
-🏴‍☠️ Credits
+---
 
-Original developer: rhaulh
-Tags: iOS bypass, A12+ bypass, iCloud bypass, Activation Lock, Hello bypass, Registration, Serials
+## 📋 Requisitos
+
+| Requisito             | Detalles           |
+| --------------------- | ------------------ |
+| **Sistema Operativo** | Windows 10 / 11    |
+| **Python**            | 3.11 (recomendado) |
+| **Dependencias**      | PyQt5, requests    |
+| **Dispositivo**       | WiFi habilitado    |
+
+---
+
+## 🔧 Instalación
+
+```bash
+git clone https://github.com/rhaulh/A12BypassAdminSerials.git
+cd A12BypassAdminSerials
+pip install -r requirements.txt
+```
+
+---
+
+## 🔒 Legal Disclaimer
+
+Este proyecto es estrictamente para:
+
+* Fines educativos
+* Investigación de seguridad
+* Recuperación legítima de dispositivos propios
+* Pruebas autorizadas
+
+⚠️ **El uso no autorizado es ilegal** en la mayoría de países
+(incluyendo CFAA en EE.UU. y leyes equivalentes en la UE).
+El autor **no se hace responsable** del mal uso de esta herramienta.
+
+---
+
+## 📞 Support & Contact
+
+* Facebook: **[https://fb.com/rhaulh](https://fb.com/rhaulh)**
+* Telegram Channel (updates): *coming soon*
+
+---
+
+## 🏴‍☠️ Credits
+
+* **Original developer:** rhaulh
+
+**Tags:**
+`iOS bypass` · `A12+ bypass` · `iCloud bypass` · `Activation Lock` · `Hello bypass` · `Registration` · `Serials`
+
+---
+
